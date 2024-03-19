@@ -1,0 +1,65 @@
+.pic{
+    height: 150px;
+    float: right;
+    margin-right: 3.5%;
+
+}
+
+.mail{
+    margin-left: 8%;
+    margin-top: -11.5mm;
+
+}
+.ph{
+    margin-left: 8%;
+    margin-top: -11.5mm;
+}
+.bordered{
+    border: 3px solid black;
+}
+
+.bordered2{
+    border: 2px solid black;
+    margin-top: -1%;
+}
+
+.bordered1{
+    border: 2px solid grey;
+}
+.name{
+    margin-left: 6%;
+    margin-top: -10.5mm;
+}
+.sc{
+    margin-left: 5%;
+    margin-top: 2%;
+
+}
+.sc1{
+    margin-top: -1.5%;
+    margin-left: 5%;
+}
+.yr{
+    margin-left: 5%;
+    margin-top: -1.5%;
+}
+.cc{
+    margin-left: 2%;
+}
+.l{
+    margin-top: 1.5%;
+    margin-left: 6.5%;
+
+}
+.edit{
+    margin-left: 6.5%;
+}
+.yr1{
+    margin-left: 6.5%;
+}
+.yr3{
+    margin-left: 6.5%;
+}
+.ref{
+    margin-left: 6.5%;
+}
